@@ -2,7 +2,6 @@
 #install.packages("TwoSampleMR-master.zip", repos = NULL, type="source")
 
 ###upside down
-setwd("C:/Users/Ervin/Desktop/Work/QMUL MSc Bioinformatics/Semester B/BIO702P - BIOINFORMATICS RESEARCH PROJECT/MR/PTSD-ThyCa")
 
 library(TwoSampleMR)
 library(MRPRESSO)
