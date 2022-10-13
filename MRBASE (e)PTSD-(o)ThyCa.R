@@ -1,9 +1,6 @@
 #Get the twosampleMR package
 install.packages("TwoSampleMR-master.zip", repos = NULL, type="source")
 
-#get into the workding directory of PTSD-ThyCa
-setwd("C:/Users/Ervin/Desktop/Work/QMUL MSc Bioinformatics/Semester B/BIO702P - BIOINFORMATICS RESEARCH PROJECT/MR/PTSD-ThyCa")
-
 library(TwoSampleMR)
 #remember you need to log(OR), to get beta
 exp_dat <- read_exposure_data(
