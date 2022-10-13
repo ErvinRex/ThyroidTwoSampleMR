@@ -1,6 +1,5 @@
 library(TwoSampleMR)
 library(MRPRESSO)
-setwd("C:/Users/Ervin/Desktop/Work/QMUL MSc Bioinformatics/Semester B/BIO702P - BIOINFORMATICS RESEARCH PROJECT/MR/TSH-PTSD")
 
 exp_dat <- read_exposure_data(
   filename = "TSH_FINAL",
