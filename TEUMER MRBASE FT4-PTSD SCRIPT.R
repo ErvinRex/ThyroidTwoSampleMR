@@ -1,6 +1,5 @@
 library(TwoSampleMR)
 library(MRPRESSO)
-setwd("C:/Users/Ervin/Desktop/Work/QMUL MSc Bioinformatics/Semester B/BIO702P - BIOINFORMATICS RESEARCH PROJECT/MR/FT4-PTSD")
 
 exp_dat <- read_exposure_data(
   filename = "FT4_FINAL",
